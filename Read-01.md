@@ -18,26 +18,26 @@ HTM L Describes the Structure of Pages
 
 - HTML Uses Elements to Describe the Structure of Pages
 - essential elements that used by any html page:
- * the html tag
- * head
- * body
- * title
- ### conclusion
- * HTML pages are text documents
- * HTML uses tags (characters that sit inside angled
-  brackets) to give the information they surround special
-  meaning.
-  * Tags are often referred to as elements.
-  * Tags usually come in pairs. The opening tag denotes
-  the start of a piece of content; the closing tag denotes
-  the end.
-  * Opening tags can carry attributes, which tell us more
-    about the content of that element.
-  * Attributes require a name and a value.
-  * To learn HTML you need to know what tags are
-    available for you to use, what they do, and where they
-     can go.
-  
+* the html tag
+* head
+* body
+* title
+### conclusion
+* HTML pages are text documents
+* HTML uses tags (characters that sit inside angled
+brackets) to give the information they surround special
+meaning.
+* Tags are often referred to as elements.
+* Tags usually come in pairs. The opening tag denotes
+the start of a piece of content; the closing tag denotes
+the end.
+* Opening tags can carry attributes, which tell us more
+about the content of that element.
+* Attributes require a name and a value.
+* To learn HTML you need to know what tags are
+available for you to use, what they do, and where they
+can go.
+
 #### comment in html:
 If you want to add a comment
 to your code that will not be
@@ -121,56 +121,52 @@ block-level elements.
 (and older versions of IE), extra JavaScript is needed,
 which is available free from Google.
 
- ## Process & Design
-  ### Who is the Site For?
-  Target Audience: individuals
-    * What is the age range of your target audience?
-    * Will your site appeal to more women or men? What is the mix?
-    * Which country do your visitors live in?
-    * Do they live in urban or rural areas?
-    * What is the average income of visitors?
-    * What level of education do they have?
-    Target Audience: Companies
-    What is the size of the company or relevant department?
-    * What is the position of people in the company who visit your site?
-    * Will visitors be using the site for themselves or for someone else?
-    * How large is the budget they control?
-    
-  ### Why People Visit YOUR Website?
-  ##### Specific Goals:
-  * Do they want general
-    information / research (such
-    as background on a topic /
-    company), or are they after
-    something specific (such as a
-    particular fact or information
-    on a product)?
-    * Are they already familiar with
-      the service or product that
-      you offer or do they need to
-      be introduced to it?
-      
-  #### Design
-  Getting your message across using design
-     ##### Prioritizing :
-          If everything on a page appeared
-          in the same style, it would be
-          much harder to understand. (Key
-          messages would not stand out.)
-          By making parts of the page
-          look distinct from surrounding
-          content, designers draw
-          attention to (or away from)
-          those items.
-    #### Organizing :
-          Grouping together related
-          content into blocks or chunks
-          makes the page look simpler
-          (and easier to understand).
-          Users should be able to
-          identify the purpose of each
-          block without processing each
-          individual item.
-          
-   
-  
+## Process & Design
+### Who is the Site For?
+Target Audience: individuals
+* What is the age range of your target audience?
+* Will your site appeal to more women or men? What is the mix?
+* Which country do your visitors live in?
+* Do they live in urban or rural areas?
+* What is the average income of visitors?
+* What level of education do they have?
+Target Audience: Companies
+What is the size of the company or relevant department?
+* What is the position of people in the company who visit your site?
+* Will visitors be using the site for themselves or for someone else?
+* How large is the budget they control?
+
+### Why People Visit YOUR Website?
+##### Specific Goals:
+* Do they want general information / research (suchas background on a topic /company), or are they after something specific (such as a
+particular fact or information
+on a product)?
+* Are they already familiar with
+the service or product that
+you offer or do they need to
+be introduced to it?
+
+#### Design
+Getting your message across using design
+##### Prioritizing :
+If everything on a page appeared
+in the same style, it would be
+much harder to understand. (Key
+messages would not stand out.)
+By making parts of the page
+look distinct from surrounding
+content, designers draw
+attention to (or away from)
+those items.
+#### Organizing :
+Grouping together related
+content into blocks or chunks
+makes the page look simpler
+(and easier to understand).
+Users should be able to
+identify the purpose of each
+block without processing each
+individual item.
+
+
+
