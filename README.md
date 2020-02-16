@@ -1,5 +1,4 @@
-# 201 Reads
-### here you can see all the reads asignments Arranged by date.
+# Code 201 Reading Notes
 
 
 Name                                       | Links
