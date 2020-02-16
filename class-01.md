@@ -168,6 +168,14 @@ identify the purpose of each
 block without processing each
 individual item.
 
+#### java script :
+first thing in js i have to know what is a script and how can i creat one?
+* A script is a series of instructions that a computer can follow to achieve a goal
+* WRITING A SCRIPT: i need to first state my goal and then list the tasks that need to be completed in order to achieve it. 
+### the main steps that i need to follow in order to write a script to achive a task are:
+1. DEFINE THE GOAL 
+2. DESIGN THE SCRIPT 
+3. CODE EACH STEP 
 
 [Main page](https://osamamousa204.github.io/reading-notes/)
 
