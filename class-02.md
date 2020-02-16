@@ -49,3 +49,5 @@ logical operators
 we can use this operators in the if statement with the condition
 the if statement execute the first code if the value of the condiyion is true
 if wrong go to if else wrong go to the last else and execute if the if else was wrong for sure
+
+[Main page](https://osamamousa204.github.io/reading-notes/)
