@@ -169,7 +169,7 @@ block without processing each
 individual item.
 
 
-[Main page](https://osamamousa204.github.io/reading-notes/README)
+[Main page](https://osamamousa204.github.io/reading-notes/)
 
 
 
