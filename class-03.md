@@ -61,6 +61,6 @@ Syntax:
 for (statement 1; statement 2; statement 3) {
   // code block to be executed
 }
-
+ [Main page](https://osamamousa204.github.io/reading-notes/)
 
 
