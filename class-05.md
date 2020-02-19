@@ -40,5 +40,4 @@ A text can be left or right aligned, centered.
 
 * **Word Spacing** : The word-spacing property is used to specify the space between the words in a text.
 
-
-                  [Main page](https://osamamousa204.github.io/reading-notes/)    
+     [Main page](https://osamamousa204.github.io/reading-notes/)    
