@@ -1,4 +1,4 @@
-class-05 sammary
+class-06 sammary
 
 # java script part
 
