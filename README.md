@@ -29,8 +29,8 @@ Read-12                                    | [class-12](https://osamamousa204.gi
 -------------------------------------------|-------------------------------------------
 Read-13                                    | [class-13](https://osamamousa204.github.io/reading-notes/class-13)
 -------------------------------------------|-------------------------------------------
-Read-14                                    |
+Read-14                                    | [class-14](https://osamamousa204.github.io/reading-notes/class-14)
 -------------------------------------------|-------------------------------------------
-Read-15                                    |
+Read-15                                    | [class-15](https://osamamousa204.github.io/reading-notes/class-15)
 
  
